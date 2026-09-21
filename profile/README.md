@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="X1SCore Banner" src="https://github.com/user-attachments/assets/fde1cf42-2cb2-4101-bbab-fc943fb7533b" />
+
 # X1SCore
 
 **One framework. Built for roleplay.**
